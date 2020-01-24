@@ -56,3 +56,12 @@
   color: #465CCD;
   text-decoration: none;
 }
+
+@media (max-width: 768px) {
+  .login {
+    min-width: 100%;
+    padding: 0 24px;
+    overflow: hidden;
+  }
+  
+}
