@@ -7,7 +7,7 @@ import Login from './Login'
 const App = () => {
   return (
     <div>
-      <Login />  
+      Bitso
     </div>
   );
 }
