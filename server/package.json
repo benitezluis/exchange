@@ -25,7 +25,7 @@
     "axios": "0.18.0",
     "conekta": "3.6.1",
     "event-stream": "4.0.1",
-    "express-fileupload": "1.1.5",
+    "express-fileupload": "1.1.9",
     "feathers-authentication-popups": "0.1.2",
     "feathers-mongoose": "6.2.0",
     "feathers-permissions": "0.2.1",
