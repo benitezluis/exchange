@@ -31,7 +31,7 @@
     "feathers-permissions": "0.2.1",
     "feathers-populate-hook": "^0.5.3",
     "jsonwebtoken": "^8.5.1",
-    "moment": "2.23.0",
+    "moment": "2.29.2",
     "mongoose": "5.3.12",
     "passport-facebook": "2.1.1",
     "passport-google-oauth20": "1.0.0",
