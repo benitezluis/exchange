@@ -30,7 +30,7 @@
     "feathers-mongoose": "6.2.0",
     "feathers-permissions": "0.2.1",
     "feathers-populate-hook": "^0.5.3",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "moment": "2.23.0",
     "mongoose": "5.3.12",
     "passport-facebook": "2.1.1",
